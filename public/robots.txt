@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://galactic-craft-cipher.vercel.app/sitemap.xml
